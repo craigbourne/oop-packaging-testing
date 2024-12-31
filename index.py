@@ -1,4 +1,4 @@
-def factorial (x)
+def factorial (x):
     if x == 1:
         return 1
 
